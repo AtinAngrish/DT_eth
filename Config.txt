@@ -1,0 +1,5 @@
+contract=0x6aFf376C1C08b802bdd75f24c79892a1486C42eB
+mining_account=0x5ca6296A4Bc650229019eb157Fc76117c1398Ad4
+mining_password=123456789
+trading_account=0x5ca6296A4Bc650229019eb157Fc76117c1398Ad4
+trading_password=123456789
